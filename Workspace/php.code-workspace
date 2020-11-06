@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "PAC01\\UF1-NF1-PAC01-Pagines-Dinamiques"
+		},
+		{
+			"path": "PAC01\\UF1-NF2-PAC01-Directives"
+		},
+		{
+			"path": "PAC01\\UF1-NF2-PAC01-Directives-Variables-Operadors"
+		},
+		{
+			"path": "PAC01\\UF1-NF3-PAC01-Estructures-i-Bucles"
+		},
+		{
+			"path": "PAC01\\Practica-Estructuras-y-bucles"
+		},
+		{
+			"path": "PAC01\\Template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UF1-NF1-PAC01-Pagines-Dinamiques"
+	}
+}
